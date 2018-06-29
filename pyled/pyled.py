@@ -24,7 +24,7 @@ def main(*args):
 		# parent of ResponsiveVisualization
 		###
 		# Has tick method - returns a picture
-		# __delete__ function needs to correctly relinquish all input. An option is to 
+		# __delete__ function needs to correctly relinquish all input.
 
 	# Main loop: execute every 1/60 second
 
