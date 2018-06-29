@@ -13,3 +13,8 @@ To-do
 
 ## Mobile application
 We might write support for bluetooth controller to make the table interactive. Inspired by [Antoine Rochebois's interactive LED table](https://www.hackster.io/AntoineKia/interactive-led-table-for-50-650b83)
+
+## Acknowledgements
+
+* [Antoine Rochebois's LED Table](https://www.hackster.io/AntoineKia/interactive-led-table-for-50-650b83)
+* [Kenneth Reitz's python project structure](https://github.com/kennethreitz/samplemod)
